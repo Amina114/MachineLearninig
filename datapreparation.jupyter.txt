@@ -1,0 +1,16 @@
+s_produit : ala 
+
+s_probleme : ala 
+code postal et etat : ala 
+
+
+Consentement du consommateur     amina
+Contesté par le consommateur     amina
+RéP-l'entreprise                 amina
+
+
+mot cle ; ashref
+descp : ashref 
+
+
+
